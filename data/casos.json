@@ -1,0 +1,10 @@
+[
+  {
+    "id": 1,
+    "categoria": "Política",
+    "titulo": "El Sistema por encima de la Moral",
+    "estimulo": "Un político local ha sido descubierto desviando 100.000 euros de fondos públicos para obras inexistentes en su municipio.",
+    "restriccion": "No juzgues la moral del político. Analiza qué falla en el sistema de incentivos y control para que este acto haya sido posible.",
+    "condicion_minima_palabras": 150
+  }
+]
