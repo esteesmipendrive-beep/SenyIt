@@ -1,8 +1,18 @@
-{
-  "id": 2,
-  "categoria": "Sociología",
-  "titulo": "La Liquidez del Compromiso",
-  "estimulo": "Zygmunt Bauman define la 'modernidad líquida' como una era donde las estructuras sociales, los compromisos y las identidades ya no mantienen su forma. Se disuelven rápidamente para adaptarse a la novedad constante, generando relaciones frágiles y ansiedad crónica.",
-  "restriccion": "Aplica el concepto de 'liquidez' de Bauman para analizar tu última decisión de abandonar un proyecto, una relación o un hábito. Prohibido culpar a factores externos; asume la liquidez de tu propio compromiso.",
-  "condicion_minima_palabras": 200
-}
+[
+  {
+    "id": 1,
+    "categoria": "Política",
+    "titulo": "El Sistema por encima de la Moral",
+    "estimulo": "Un político local ha sido descubierto desviando 100.000 euros de fondos públicos para obras inexistentes en su municipio.",
+    "restriccion": "No juzgues la moral del político. Analiza qué falla en el sistema de incentivos y control para que este acto haya sido posible.",
+    "condicion_minima_palabras": 150
+  },
+  {
+    "id": 2,
+    "categoria": "Sociología",
+    "titulo": "La Liquidez del Compromiso",
+    "estimulo": "Zygmunt Bauman define la 'modernidad líquida' como una era donde las estructuras sociales, los compromisos y las identidades ya no mantienen su forma. Se disuelven rápidamente para adaptarse a la novedad constante, generando relaciones frágiles y ansiedad crónica.",
+    "restriccion": "Aplica el concepto de 'liquidez' de Bauman para analizar tu última decisión de abandonar un proyecto, una relación o un hábito. Prohibido culpar a factores externos; asume la liquidez de tu propio compromiso.",
+    "condicion_minima_palabras": 200
+  }
+]
