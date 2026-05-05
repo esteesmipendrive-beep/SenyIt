@@ -10,7 +10,10 @@
     <div class="container">
         <!-- Panel Izquierdo: El Reto -->
         <aside class="panel-reto">
-            <span id="categoria-tag" class="tag">Cargando...</span>
+            <div class="cabecera-reto">
+                <span id="categoria-tag" class="tag">Cargando...</span>
+                <button id="btn-abrir-archivo" class="btn-secundario">Ver Archivo</button>
+            </div>
             <h1 id="titulo-caso">Preparando el hacha...</h1>
             <p id="estimulo-texto"></p>
             <div class="restriccion-box">
@@ -28,6 +31,20 @@
             </div>
         </main>
     </div>
+
+    <!-- Sistema de Capas: El Archivo Histórico (Oculto por defecto) -->
+    <div id="modal-archivo" class="modal oculto">
+        <div class="modal-contenido">
+            <div class="modal-cabecera">
+                <h2>Tu Evolución Crítica</h2>
+                <button id="btn-cerrar-archivo" class="btn-cerrar">Cerrar Archivo [X]</button>
+            </div>
+            <div id="lista-reflexiones" class="lista-reflexiones">
+                <!-- Aquí se inyectarán las reflexiones guardadas -->
+            </div>
+        </div>
+    </div>
+
     <script src="app.js"></script>
 </body>
 </html>
